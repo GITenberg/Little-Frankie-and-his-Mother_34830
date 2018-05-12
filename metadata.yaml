@@ -1,0 +1,35 @@
+_repo: Little-Frankie-and-his-Mother_34830
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leslie, Madeline
+    aliases:
+    - Aunt Hattie
+    - Baker, Harriette Newell Woods
+    - Hattie, Aunt
+    birthdate: 1815
+    deathdate: 1893
+    gutenberg_agent_id: '31136'
+    url: http://www.gutenberg.org/2009/agents/31136
+    wikipedia: http://en.wikipedia.org/wiki/Harriette_Newell_Woods_Baker
+description: Little Frankie and his mother -- Little Frankie at his plays.
+gutenberg_issued: '2011-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34830'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Infants -- Juvenile fiction'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Mothers and sons -- Juvenile fiction'
+title: Little Frankie and his Mother
+url: http://www.gutenberg.org/ebooks/34830
