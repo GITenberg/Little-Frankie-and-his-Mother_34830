@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31136
     wikipedia: http://en.wikipedia.org/wiki/Harriette_Newell_Woods_Baker
 description: Little Frankie and his mother -- Little Frankie at his plays.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34830#Little-Frankie-and-his-Mother
 gutenberg_issued: '2011-01-03'
 gutenberg_type: Text
 identifiers:
